@@ -48,7 +48,7 @@
 
     <script>
         function accionParaCuandoEllaDigaQueSi(){
-            alert('SABIA QUE DIRIAS QUE SI TKM <3');
+            alert('SABIA QUE DIRIAS QUE SI TKM <3' <br> ATT.AMPUERO);
         }
 
         function mueveElBoton(){
